@@ -15,7 +15,7 @@ and geospatial applications for sustainable development.
 - Spatial Analysis
 - 3D GIS
 - AHP / Multi-Criteria Analysis
-- Python
+- Python (GeoPandas, Pandas, NumPy)
 
 ## Featured Projects
 
@@ -27,12 +27,10 @@ between 2003 and 2023, with a projection to 2033.
 GIS-based multi-criteria analysis using terrain,
 hydrological and environmental factors.
 
-### Land Use/Land Cover Classification
-Landsat-based Random Forest classification and accuracy
-assessment.
+### Land Use/Land Cover Classification of Herat city and accuracy assessment in GEE environment.
 
 ## Education
 
 Bachelor of GIS and Remote Sensing
-Kabul Polytechnic University
+Kabul Polytechnic University (GPA 90/100)
 
