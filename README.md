@@ -27,7 +27,7 @@ between 2003 and 2023, with a projection to 2033.
 GIS-based multi-criteria analysis using terrain,
 hydrological and environmental factors.
 
-### Land Use/Land Cover Classification of Herat city and accuracy assessment in GEE environment.
+### Land Use/Land Cover Classification of Hirat city and accuracy assessment in GEE environment.
 
 ## Education
 
