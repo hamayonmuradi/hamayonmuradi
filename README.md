@@ -21,13 +21,11 @@ A GIS-based flood susceptibility map of Baghlan Province, classified into **Low,
 **Parameter layers (10):**
 Elevation · Slope · Curvature · Topographic Wetness Index (TWI) · Land cover · Lithology · Average annual rainfall · Drainage density · Flow accumulation · Distance from rivers
 
-- **Method:** `[add method, e.g. weighted overlay / AHP / frequency ratio]`
-- **Validation:** `[add how you validated it, e.g. overlay with historical flood points]`
-- **Tools:** `[ArcGIS / QGIS]`
+- **Method:** AHP 
+- **Validation:** Historical flood events
+- **Tools:** ArcGIS Pro
 
-![Baghlan flood susceptibility map](images/baghlan_flood_susceptibility.png)
-
-📂 Repository: `[add link]`
+![Baghlan flood susceptibility map](Flood_Susceptibility_Map.jpg)
 
 ---
 
@@ -42,14 +40,13 @@ A 2025 land cover map of Hirat City produced in **Google Earth Engine** from Lan
 | Built area | 60.31 |
 | Rangeland | 14.97 |
 
-- **Data:** Landsat, August 2025
+- **Data:** Landsat 8, August 2025
 - **Classes:** Vegetation, Bare land, Built area, Rangeland
 - **Projection:** WGS 1984 UTM Zone 41N
-- **Accuracy assessment:** Google Earth reference points `[add overall accuracy / kappa]`
+- **Accuracy assessment:** Google Earth reference points `[81 / 0.74]`
 
-![Hirat land cover 2025](images/hirat_landcover_2025.png)
+![Hirat land cover 2025](Hirat_lulc_2025.jpg)
 
-📂 Repository: `[add link]`
 
 ---
 
